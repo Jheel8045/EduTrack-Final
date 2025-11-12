@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pkl
+
+# Flask
+instance/
+uploads/
+outputs/
+
+# Node/React
+node_modules/
+build/
+.env
