@@ -85,7 +85,6 @@ Make sure API_BASE in App.js points to your backend URL.
 This project is licensed under the MIT License.
 See the LICENSE file for more details.
 
-###👩‍💻 Author
-
+### 👩‍💻 Author
 Jheel
 GitHub: @Jheel8045
